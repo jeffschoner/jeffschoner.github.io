@@ -7,21 +7,15 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate>
-		
 		<atom:link href="http://jeffschoner.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-		
 		<item>
 			<title>Andy Warhol on software</title>
 			<link>http://jeffschoner.github.io/posts/andy-warhol-on-software/</link>
 			<pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
-			
 			<guid>http://jeffschoner.github.io/posts/andy-warhol-on-software/</guid>
 			<description>
-				
-				Either once only, or every day
-				
+			Either once only, or every day
 			</description>
 		</item>
-		
 	</channel>
 </rss>
