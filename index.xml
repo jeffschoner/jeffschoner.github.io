@@ -9,6 +9,15 @@
 		<lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate>
 		<atom:link href="http://jeffschoner.github.io/index.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<title>About</title>
+			<link>http://jeffschoner.github.io/about/</link>
+			<pubDate>Sat, 31 Jul 2021 09:27:59 -0700</pubDate>
+			<guid>http://jeffschoner.github.io/about/</guid>
+			<description>
+			I’ve been writing software most of my life, starting out with GW-BASIC on a 286 PC. I’ve continued it into a career at well-known companies …
+			</description>
+		</item>
+		<item>
 			<title>Andy Warhol on software</title>
 			<link>http://jeffschoner.github.io/posts/andy-warhol-on-software/</link>
 			<pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
